@@ -27,6 +27,12 @@ En consecuencia, gran parte de lo plasmado gira en torno al análisis de los RWA
 La simulación conjunta ofrece cuatro escenarios principales en los que se desean diferentes referencias de actitud para un satélite CubeSat de 3U a través de diferentes RWA seleccionados.
 Las simulaciones demuestran que el diseño es efectivo, ya que en todos los escenarios se logra la correcta regulación de la actitud en un tiempo finito satisfactorio.
 
+# Simulations.
+
+## Reconfigurations cases for Reaction Wheel Array. 
+
+![tableeee](https://github.com/Lechuga-Geronimo/MoebiusCubeSatReactionWheel/assets/142461885/e3b21c66-b3d2-4d39-aee9-2391e2e0dff2)
+
 ## Attitude Control Response.
 
 ![imCase_1_a](https://github.com/Lechuga-Geronimo/Moebius-CubeSat-Reaction-Wheel/assets/142461885/7eae24d9-9273-4e5f-9478-73c478634cc1)
@@ -42,6 +48,12 @@ Las simulaciones demuestran que el diseño es efectivo, ya que en todos los esce
 ## Multi-loop Tuning. 
 
 ![1710182433151](https://github.com/Lechuga-Geronimo/Moebius-CubeSat-Reaction-Wheel/assets/142461885/6f0b2a6b-da1b-4e49-8396-81edc72f81cd)
+
+# Topologic Adjustment. 
+
+## Original Moebius Strip.
+
+![imBanda_1](https://github.com/Lechuga-Geronimo/MoebiusCubeSatReactionWheel/assets/142461885/0eb53858-1c47-482d-9737-659a496a021b)
 
 ## Modified Moebius Strip.
 
